@@ -1,0 +1,23 @@
+# Lokale Konten und Laufzeitdaten bleiben privat
+social/konten.json
+social/stand.json
+social/*.log
+social/*.pid
+social/.verlaengert-*
+social/trends/
+social/roh/
+social/plaene/
+social/fakten.md
+*.log
+__pycache__/
+.DS_Store
+
+# Schlüssel und Zugangsdaten nie einchecken
+.env
+.env.*
+*.pem
+*.key
+*.p12
+id_rsa*
+*token*
+*secret*

@@ -1,0 +1,42 @@
+{
+  "hochzeitsfunken": {
+    "name": "Hochzeitsfunken",
+    "domain": "hochzeitsfunken.de",
+    "farben": {"grund": "#fbf6f0", "text": "#452b30", "akzent": "#8d3f51", "zweit": "#e9d8b8", "dunkel": "#452b30"},
+    "schrift_titel": ["cormorant-garamond.ttf", 600],
+    "schrift_text": ["manrope.ttf", 500],
+    "bild_stil": "warm natural light, romantic editorial wedding photography, soft film look, shot on 50mm",
+    "neg_zusatz": "bride face close-up, groom face close-up, cleavage, kissing, logo, phone screen text, human face, portrait, person facing camera",
+    "motiv_hinweis": "Details, Hände, Tische, Blumen, Gästebuch, Umschläge, Kerzen, Gäste von hinten oder unscharf. Keine Gesichter in Großaufnahme."
+  },
+  "beckenbuch": {
+    "name": "Beckenbuch",
+    "domain": "beckenbuch.de",
+    "farben": {"grund": "#0b1c24", "text": "#fbf6ec", "akzent": "#3aa8b0", "zweit": "#d4b07a", "dunkel": "#071015"},
+    "schrift_titel": ["fraunces-600.ttf", null],
+    "schrift_text": ["plex-sans-400.ttf", null],
+    "bild_stil": "natural daylight, editorial aquarium photography, crisp detail, shallow depth of field, shot on 35mm",
+    "neg_zusatz": "dead fish, dirty water, algae bloom, saltwater reef, coral",
+    "motiv_hinweis": "Süßwasser-Aquarien, Pflanzen, Fische der 38 Lexikon-Arten, Technik (Filter, Heizer, Teststreifen), Hände bei der Pflege."
+  },
+  "hundefutterpilot": {
+    "name": "Hundefutterpilot",
+    "domain": "hundefutterpilot.de",
+    "farben": {"grund": "#fffdf6", "text": "#16301f", "akzent": "#ff5fa2", "zweit": "#5fe39a", "dunkel": "#16301f", "sonne": "#ffd84a"},
+    "schrift_titel": ["poppins-700-8bb0f6e6.ttf", null],
+    "schrift_text": ["poppins-400-9956463e.ttf", null],
+    "bild_stil": "bright natural light, warm candid pet photography, clean modern home, shot on 85mm",
+    "neg_zusatz": "sick dog, injured dog, blood, vet surgery, raw meat gore, human face",
+    "motiv_hinweis": "Hunde verschiedener Rassen und Alter, Näpfe, Futter, Gemüse, Küche, Spaziergang. Keine kranken Tiere, keine Medikamente."
+  },
+  "ki-krimidinner": {
+    "name": "KI-Krimidinner",
+    "domain": "ki-krimidinner.de",
+    "farben": {"grund": "#0f0d0b", "text": "#f4ecdb", "akzent": "#c9a45c", "zweit": "#8e1b2c", "dunkel": "#0f0d0b"},
+    "schrift_titel": ["dm-serif-display-regular.ttf", null],
+    "schrift_text": ["courier-prime-400-normal-latin.ttf", null],
+    "bild_stil": "moody cinematic low-key lighting, noir dinner party atmosphere, candlelight, shot on 35mm",
+    "neg_zusatz": "blood, gore, corpse, gun pointed at person, knife wound, horror, human face, portrait, person facing camera",
+    "motiv_hinweis": "Gedeckte Tafel bei Kerzenlicht, Briefe, Umschläge, Schlüssel, Lupe, Weinglas, Notizzettel, Smartphone liegend, Gäste als Silhouetten. Keine Gewaltdarstellung."
+  }
+}
