@@ -36,7 +36,7 @@ Nicht im Repo liegen die Redaktionspläne (`social/plaene`), die Produktfakten j
 
 ## Zeitpläne
 
-Die beiden Plists in `launchd/` sind nur Dateien. Aus diesem Repo wird nichts geladen und kein Zeitplan eingerichtet. Ob der Poster scharf geschaltet wird, entscheidet Tim im Leitauftrag „Social-Loop scharf schalten“.
+Die beiden Plists in `launchd/` sind nur Dateien. Statt des eigenen Heimatordners steht dort `__HOME__`, das vor dem Laden ersetzt wird, etwa mit `sed -i '' "s#__HOME__#$HOME#g" launchd/*.plist`. Aus diesem Repo wird nichts geladen und kein Zeitplan eingerichtet. Ob der Poster scharf geschaltet wird, entscheidet Tim im Leitauftrag „Social-Loop scharf schalten“.
 
 ## Bildablage
 
